@@ -1,0 +1,1 @@
+Il faut avoir des documents au format .txt dans le dossier Documents du téléphone android sinon ça ne fonctionne pas.
